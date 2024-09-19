@@ -1,0 +1,39 @@
+com.example.album_application.app-customview-poolingcontainer-1.0.0-0 /Users/lokesh.patel/.gradle/caches/transforms-4/0c37b62776b51acff4cbd4c09dcbfdd0/transformed/customview-poolingcontainer-1.0.0/res
+com.example.album_application.app-emoji2-1.3.0-1 /Users/lokesh.patel/.gradle/caches/transforms-4/18cc9628e43ae568a4a6d8fd5042b0e8/transformed/emoji2-1.3.0/res
+com.example.album_application.app-core-ktx-1.13.1-2 /Users/lokesh.patel/.gradle/caches/transforms-4/235188d56d0f1c9f887036e4e1e5aae8/transformed/core-ktx-1.13.1/res
+com.example.album_application.app-lifecycle-viewmodel-ktx-2.8.5-3 /Users/lokesh.patel/.gradle/caches/transforms-4/2677e1fa33f0a488839eeceb293da8fa/transformed/lifecycle-viewmodel-ktx-2.8.5/res
+com.example.album_application.app-lifecycle-livedata-core-ktx-2.8.5-4 /Users/lokesh.patel/.gradle/caches/transforms-4/2b9510e0a1dc91f7e1e1da23da73bafc/transformed/lifecycle-livedata-core-ktx-2.8.5/res
+com.example.album_application.app-emoji2-views-helper-1.3.0-5 /Users/lokesh.patel/.gradle/caches/transforms-4/2ca9620337798f049e52193a8df42bfe/transformed/emoji2-views-helper-1.3.0/res
+com.example.album_application.app-lifecycle-viewmodel-release-6 /Users/lokesh.patel/.gradle/caches/transforms-4/2f2be78cc07aee68d0634d26f2eb2c6f/transformed/lifecycle-viewmodel-release/res
+com.example.album_application.app-savedstate-1.2.1-7 /Users/lokesh.patel/.gradle/caches/transforms-4/450d7608c96f99032e104b7d577e94d4/transformed/savedstate-1.2.1/res
+com.example.album_application.app-viewpager2-1.1.0-beta02-8 /Users/lokesh.patel/.gradle/caches/transforms-4/4608eb4bbde5b7a53b1c766eeaa9a521/transformed/viewpager2-1.1.0-beta02/res
+com.example.album_application.app-appcompat-resources-1.7.0-9 /Users/lokesh.patel/.gradle/caches/transforms-4/5d386712b9cf5882379202696970229f/transformed/appcompat-resources-1.7.0/res
+com.example.album_application.app-annotation-experimental-1.4.0-10 /Users/lokesh.patel/.gradle/caches/transforms-4/6bc3fbcafdb0710b08521326451599aa/transformed/annotation-experimental-1.4.0/res
+com.example.album_application.app-lifecycle-livedata-ktx-2.8.5-11 /Users/lokesh.patel/.gradle/caches/transforms-4/76c8a73bcafb970f10ab40a5edaae242/transformed/lifecycle-livedata-ktx-2.8.5/res
+com.example.album_application.app-activity-1.9.2-12 /Users/lokesh.patel/.gradle/caches/transforms-4/7b04f2a2d01116c849ddba676b37e01d/transformed/activity-1.9.2/res
+com.example.album_application.app-transition-1.5.0-13 /Users/lokesh.patel/.gradle/caches/transforms-4/7e6aaad0aa05174fe967270222432e9b/transformed/transition-1.5.0/res
+com.example.album_application.app-cardview-1.0.0-14 /Users/lokesh.patel/.gradle/caches/transforms-4/8d5fe34fc5ca5a8e6b69b1ec96fca334/transformed/cardview-1.0.0/res
+com.example.album_application.app-appcompat-1.7.0-15 /Users/lokesh.patel/.gradle/caches/transforms-4/911e4db82eb16ced5a2015c0e93423fc/transformed/appcompat-1.7.0/res
+com.example.album_application.app-fragment-1.5.4-16 /Users/lokesh.patel/.gradle/caches/transforms-4/9aeb7d93c1118c5f16e234ee0f97ace4/transformed/fragment-1.5.4/res
+com.example.album_application.app-material-1.12.0-17 /Users/lokesh.patel/.gradle/caches/transforms-4/9cd46d6bf3ecf950d870f80a206d04bf/transformed/material-1.12.0/res
+com.example.album_application.app-lifecycle-livedata-core-2.8.5-18 /Users/lokesh.patel/.gradle/caches/transforms-4/a1b5f6b3f0d9e14e6fcc7038e9e43104/transformed/lifecycle-livedata-core-2.8.5/res
+com.example.album_application.app-profileinstaller-1.3.1-19 /Users/lokesh.patel/.gradle/caches/transforms-4/a6b2170b70338e691580c4b778dbcb52/transformed/profileinstaller-1.3.1/res
+com.example.album_application.app-core-1.13.1-20 /Users/lokesh.patel/.gradle/caches/transforms-4/ad41878e229d749b735c2b179d4ed2ee/transformed/core-1.13.1/res
+com.example.album_application.app-lifecycle-livedata-2.8.5-21 /Users/lokesh.patel/.gradle/caches/transforms-4/c76fac219e2b1417a3e352f114fb2d00/transformed/lifecycle-livedata-2.8.5/res
+com.example.album_application.app-startup-runtime-1.1.1-22 /Users/lokesh.patel/.gradle/caches/transforms-4/c9f6623497ab21eb238fde139bac0894/transformed/startup-runtime-1.1.1/res
+com.example.album_application.app-drawerlayout-1.1.1-23 /Users/lokesh.patel/.gradle/caches/transforms-4/d4eb7e5df34a58862b4cbd0ffecd7b44/transformed/drawerlayout-1.1.1/res
+com.example.album_application.app-lifecycle-viewmodel-savedstate-2.8.5-24 /Users/lokesh.patel/.gradle/caches/transforms-4/e51995472892e640cbb6ba4763b1a130/transformed/lifecycle-viewmodel-savedstate-2.8.5/res
+com.example.album_application.app-lifecycle-runtime-release-25 /Users/lokesh.patel/.gradle/caches/transforms-4/e7ffdf073f62cab8da34c4e51d9e685c/transformed/lifecycle-runtime-release/res
+com.example.album_application.app-recyclerview-1.3.2-26 /Users/lokesh.patel/.gradle/caches/transforms-4/e8e8cb159c2b2044487a07f9f7e2eb37/transformed/recyclerview-1.3.2/res
+com.example.album_application.app-lifecycle-process-2.8.5-27 /Users/lokesh.patel/.gradle/caches/transforms-4/e9b6b0183764f6caf57f72fcdbeff02f/transformed/lifecycle-process-2.8.5/res
+com.example.album_application.app-core-runtime-2.2.0-28 /Users/lokesh.patel/.gradle/caches/transforms-4/ee2247cdb77515d5e4df7de4a115275b/transformed/core-runtime-2.2.0/res
+com.example.album_application.app-coordinatorlayout-1.1.0-29 /Users/lokesh.patel/.gradle/caches/transforms-4/ee263bdec4d0861ef710f58e41c181f2/transformed/coordinatorlayout-1.1.0/res
+com.example.album_application.app-constraintlayout-2.1.4-30 /Users/lokesh.patel/.gradle/caches/transforms-4/f0bed2692bd57dc27c1590f988d4c7aa/transformed/constraintlayout-2.1.4/res
+com.example.album_application.app-glide-4.16.0-31 /Users/lokesh.patel/.gradle/caches/transforms-4/fa728e2be8a5f941f16f8f352ceba8cb/transformed/glide-4.16.0/res
+com.example.album_application.app-pngs-32 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/build/generated/res/pngs/debug
+com.example.album_application.app-resValues-33 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/build/generated/res/resValues/debug
+com.example.album_application.app-packageDebugResources-34 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.album_application.app-packageDebugResources-35 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.album_application.app-debug-36 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.album_application.app-debug-37 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/src/debug/res
+com.example.album_application.app-main-38 /Users/lokesh.patel/Developer/ANDROID TRAINING/ANDROID PROJECT/Assignment 1 - 16-09-2024/Assignment_1_Lokesh_Patel/app/src/main/res
