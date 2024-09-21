@@ -8,8 +8,7 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 
-class PhotoAdapter : RecyclerView.Adapter<PhotoAdapter.PhotoViewHolder>() {
-
+class PhotoAdapter(private val onPhotoClick: (Photo) -> Unit) : RecyclerView.Adapter<PhotoAdapter.PhotoViewHolder>() {
     private var photoList: List<Photo> = emptyList()
 
     class PhotoViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
@@ -26,7 +25,11 @@ class PhotoAdapter : RecyclerView.Adapter<PhotoAdapter.PhotoViewHolder>() {
     override fun onBindViewHolder(holder: PhotoViewHolder, position: Int) {
         val photo = photoList[position]
         holder.photoTitleTextView.text = photo.title
-        Glide.with(holder.itemView.context).load(photo.thumbnailUrl).into(holder.photoImageView)
+        Glide.with(holder.itemView.context)
+            .load("")
+            .into(holder.photoImageView)
+
+        holder.itemView.setOnClickListener { onPhotoClick(photo) }
     }
 
     override fun getItemCount(): Int = photoList.size

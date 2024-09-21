@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-mdpi/ic_launcher.webp"
-    },
-    {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-mdpi/ic_launcher.webp"
     },
     {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",

@@ -1,5 +1,6 @@
 package com.example.album_application
 
+
 import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
@@ -18,7 +19,6 @@ class MainActivity : AppCompatActivity() {
         recyclerView = findViewById(R.id.recyclerView)
         recyclerView.layoutManager = LinearLayoutManager(this)
 
-        // Display users
         val userAdapter = UserAdapter { user ->
             viewModel.fetchAlbumsByUser(user.id)
         }
@@ -28,24 +28,25 @@ class MainActivity : AppCompatActivity() {
             userAdapter.submitList(users)
         }
 
-        // Fetch users initially
-        viewModel.fetchUsers()
-
-        // Handle albums
-        val albumAdapter = AlbumAdapter { album ->
-            viewModel.fetchPhotosByAlbum(album.id)
-        }
-
         viewModel.albums.observe(this) { albums ->
+            // Handle displaying albums, you can create a new RecyclerView or update the existing one
+            val albumAdapter = AlbumAdapter { album ->
+                viewModel.fetchPhotosByAlbum(album.id)
+            }
             recyclerView.adapter = albumAdapter
             albumAdapter.submitList(albums)
         }
 
-        // Handle photos
-        val photoAdapter = PhotoAdapter()
         viewModel.photos.observe(this) { photos ->
+            // Handle displaying photos, you can create a new RecyclerView or update the existing one
+            val photoAdapter = PhotoAdapter { photo ->
+                // Handle photo click if needed
+            }
             recyclerView.adapter = photoAdapter
             photoAdapter.submitList(photos)
         }
+
+        // Fetch users initially
+        viewModel.fetchUsers()
     }
 }

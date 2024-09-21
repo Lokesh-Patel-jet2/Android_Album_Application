@@ -7,7 +7,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 
 class AlbumAdapter(private val onAlbumClick: (Album) -> Unit) : RecyclerView.Adapter<AlbumAdapter.AlbumViewHolder>() {
-
     private var albumList: List<Album> = emptyList()
 
     class AlbumViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
@@ -33,3 +32,4 @@ class AlbumAdapter(private val onAlbumClick: (Album) -> Unit) : RecyclerView.Ada
         notifyDataSetChanged()
     }
 }
+
