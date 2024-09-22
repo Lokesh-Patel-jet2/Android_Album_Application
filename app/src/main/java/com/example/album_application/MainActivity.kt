@@ -2,6 +2,7 @@ package com.example.album_application
 
 
 import android.os.Bundle
+import android.widget.Button
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -29,7 +30,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         viewModel.albums.observe(this) { albums ->
-            // Handle displaying albums, you can create a new RecyclerView or update the existing one
+            // Handle displaying albums
             val albumAdapter = AlbumAdapter { album ->
                 viewModel.fetchPhotosByAlbum(album.id)
             }
@@ -38,15 +39,17 @@ class MainActivity : AppCompatActivity() {
         }
 
         viewModel.photos.observe(this) { photos ->
-            // Handle displaying photos, you can create a new RecyclerView or update the existing one
+            // Handle displaying photos
             val photoAdapter = PhotoAdapter { photo ->
-                // Handle photo click if needed
             }
             recyclerView.adapter = photoAdapter
             photoAdapter.submitList(photos)
         }
 
-        // Fetch users initially
-        viewModel.fetchUsers()
+        // Set up button click listener to fetch users
+        findViewById<Button>(R.id.buttonFetchData).setOnClickListener {
+            viewModel.fetchUsers()
+        }
     }
 }
+

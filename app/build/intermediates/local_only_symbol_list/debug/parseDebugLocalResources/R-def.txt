@@ -5,6 +5,7 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id albumTitleTextView
+id buttonFetchData
 id photoImageView
 id photoTitleTextView
 id recyclerView
