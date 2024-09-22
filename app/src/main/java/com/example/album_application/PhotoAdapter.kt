@@ -26,7 +26,7 @@ class PhotoAdapter(private val onPhotoClick: (Photo) -> Unit) : RecyclerView.Ada
         val photo = photoList[position]
         holder.photoTitleTextView.text = photo.title
         Glide.with(holder.itemView.context)
-            .load("")
+            .load("https://picsum.photos/200/300")
             .into(holder.photoImageView)
 
         holder.itemView.setOnClickListener { onPhotoClick(photo) }
