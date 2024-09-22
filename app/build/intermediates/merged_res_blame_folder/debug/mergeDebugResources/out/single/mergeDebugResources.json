@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-mdpi_ic_launcher.webp.flat",
         "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -36,16 +36,16 @@
         "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/xml/backup_rules.xml"
     },
     {
+        "merged": "com.example.album_application.app-debug-36:/layout_item_photo.xml.flat",
+        "source": "com.example.album_application.app-main-38:/layout/item_photo.xml"
+    },
+    {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-xhdpi_ic_launcher.webp.flat",
         "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/mipmap-hdpi_ic_launcher.webp.flat",
         "source": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-main-38:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "com.example.album_application.app-debug-36:/layout_item_user.xml.flat",
-        "source": "com.example.album_application.app-main-38:/layout/item_user.xml"
     },
     {
         "merged": "/Users/lokesh.patel/.gradle/daemon/8.7/com.example.album_application.app-debug-36:/layout_item_user.xml.flat",
